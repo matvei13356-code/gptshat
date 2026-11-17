@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.py[cod]
+config.json
+.env
+results/
+progress.sqlite3*
+.run.lock
+*.tmp

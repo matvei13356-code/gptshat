@@ -1,0 +1,3 @@
+Updated verification: 57 unittest tests passed.
+Executed by the telegram_rules review agent after the unique-contact export change.
+Includes legacy alias/case duplicates, CSV uniqueness, and accepted/review separation.

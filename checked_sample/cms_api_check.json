@@ -1,0 +1,17 @@
+{
+  "url": "https://api.cmsmagazine.ru/v1/companiesList?company_type_code=creators&page=2",
+  "cards": 20,
+  "first_cards": [
+    {
+      "url": "https://cmsmagazine.ru/agencies/proactivity/",
+      "company": "Proactivity Group"
+    },
+    {
+      "url": "https://cmsmagazine.ru/agencies/globus-ltd/",
+      "company": "GLOBUS IT"
+    }
+  ],
+  "next_pages": [
+    "https://api.cmsmagazine.ru/v1/companiesList?company_type_code=creators&page=3"
+  ]
+}

@@ -1,0 +1,2 @@
+{"url": "https://api.cmsmagazine.ru/robots.txt", "status": 404, "elapsed_s": 3.028, "result": "http_error", "time_utc": "2026-11-17T14:33:38.247325+00:00"}
+{"url": "https://api.cmsmagazine.ru/v1/companiesList?company_type_code=creators&page=2", "status": 200, "elapsed_s": 0.865, "result": "ok", "bytes": 12059, "time_utc": "2026-11-17T14:33:39.123859+00:00"}

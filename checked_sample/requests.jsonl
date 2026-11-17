@@ -1,0 +1,56 @@
+{"url": "https://workspace.ru/robots.txt", "status": 200, "elapsed_s": 3.102, "result": "ok", "bytes": 2653, "time_utc": "2026-11-17T14:30:04.975706+00:00"}
+{"url": "https://workspace.ru/contractors/", "status": 200, "elapsed_s": 0.703, "result": "ok", "bytes": 61759, "time_utc": "2026-11-17T14:30:05.769103+00:00"}
+{"url": "https://ruward.ru/robots.txt", "status": 200, "elapsed_s": 1.999, "result": "ok", "bytes": 87, "time_utc": "2026-11-17T14:30:10.545844+00:00"}
+{"url": "https://ruward.ru/catalog/", "status": 200, "elapsed_s": 1.176, "result": "ok", "bytes": 78099, "time_utc": "2026-11-17T14:30:13.136771+00:00"}
+{"url": "https://ruward.ru/catalog/ingate-ru/", "status": 200, "elapsed_s": 0.645, "result": "ok", "bytes": 215346, "time_utc": "2026-11-17T14:30:15.466753+00:00"}
+{"url": "https://ruward.ru/catalog/agima-ru/", "status": 200, "elapsed_s": 0.41, "result": "ok", "bytes": 218753, "time_utc": "2026-11-17T14:30:17.973473+00:00"}
+{"url": "https://ingate.ru/robots.txt", "status": 200, "elapsed_s": 4.059, "result": "ok", "bytes": 4059, "time_utc": "2026-11-17T14:30:24.850888+00:00"}
+{"url": "https://ingate.ru/", "status": 200, "elapsed_s": 3.575, "result": "ok", "bytes": 594707, "time_utc": "2026-11-17T14:30:28.819106+00:00"}
+{"url": "http://promo.ingate.ru/robots.txt", "status": 200, "elapsed_s": 0.826, "result": "ok", "bytes": 13602, "time_utc": "2026-11-17T14:30:30.899737+00:00"}
+{"url": "http://agima.ru/robots.txt", "status": 301, "elapsed_s": 0.808, "result": "redirect", "time_utc": "2026-11-17T14:30:50.226505+00:00"}
+{"url": "https://www.agima.ru/robots.txt", "status": 200, "elapsed_s": 1.77, "result": "ok", "bytes": 65, "time_utc": "2026-11-17T14:30:54.061817+00:00"}
+{"url": "http://agima.ru/", "status": 301, "elapsed_s": 0.589, "result": "redirect", "time_utc": "2026-11-17T14:30:56.122333+00:00"}
+{"url": "https://www.agima.ru/robots.txt", "status": 200, "elapsed_s": 0.415, "result": "ok", "bytes": 65, "time_utc": "2026-11-17T14:30:58.843854+00:00"}
+{"url": "https://www.agima.ru/", "status": 200, "elapsed_s": 0.643, "result": "ok", "bytes": 330901, "time_utc": "2026-11-17T14:31:02.645242+00:00"}
+{"url": "https://ingate.ru/robots.txt", "status": 200, "elapsed_s": 5.696, "result": "ok", "bytes": 4059, "time_utc": "2026-11-17T14:31:10.665995+00:00"}
+{"url": "https://ingate.ru/contacts/", "status": 200, "elapsed_s": 0.882, "result": "ok", "bytes": 205918, "time_utc": "2026-11-17T14:31:11.799062+00:00"}
+{"url": "https://ingate.ru/company/", "status": 200, "elapsed_s": 1.073, "result": "ok", "bytes": 212174, "time_utc": "2026-11-17T14:31:15.104860+00:00"}
+{"url": "https://siteos.agima.ru/robots.txt", "status": 301, "elapsed_s": 1.338, "result": "redirect", "time_utc": "2026-11-17T14:31:18.328129+00:00"}
+{"url": "https://www.agima.ru/contacts/", "status": 200, "elapsed_s": 0.752, "result": "ok", "bytes": 120301, "time_utc": "2026-11-17T14:31:20.394169+00:00"}
+{"url": "https://www.agima.ru/about/", "status": 200, "elapsed_s": 0.671, "result": "ok", "bytes": 354747, "time_utc": "2026-11-17T14:31:23.040403+00:00"}
+{"url": "https://b2b.yandex.ru/robots.txt", "status": 200, "elapsed_s": 1.226, "result": "ok", "bytes": 2222, "time_utc": "2026-11-17T14:31:26.150289+00:00"}
+{"url": "https://b2b.yandex.ru/adv/contact/agencies", "status": 200, "elapsed_s": 1.866, "result": "ok", "bytes": 890087, "time_utc": "2026-11-17T14:31:30.397436+00:00"}
+{"url": "https://b2b.yandex.ru/adv/contact/agencies/registratura-ru", "status": 200, "elapsed_s": 0.751, "result": "ok", "bytes": 527272, "time_utc": "2026-11-17T14:31:32.100948+00:00"}
+{"url": "https://b2b.yandex.ru/adv/contact/agencies/okkam", "status": 200, "elapsed_s": 0.701, "result": "ok", "bytes": 550180, "time_utc": "2026-11-17T14:31:34.850556+00:00"}
+{"url": "https://registratura.ru/robots.txt", "status": 200, "elapsed_s": 2.136, "result": "ok", "bytes": 1577, "time_utc": "2026-11-17T14:31:38.800101+00:00"}
+{"url": "https://registratura.ru/", "status": 504, "elapsed_s": 17.798, "result": "http_error", "time_utc": "2026-11-17T14:31:57.784080+00:00"}
+{"url": "https://okkam.group/robots.txt", "status": 200, "elapsed_s": 4.804, "result": "ok", "bytes": 5303, "time_utc": "2026-11-17T14:32:02.593004+00:00"}
+{"url": "https://okkam.group/", "status": 200, "elapsed_s": 0.636, "result": "ok", "bytes": 1126228, "time_utc": "2026-11-17T14:32:03.612326+00:00"}
+{"url": "https://okkam.group/contacts", "status": 200, "elapsed_s": 8.708, "result": "ok", "bytes": 132301, "time_utc": "2026-11-17T14:32:14.184462+00:00"}
+{"url": "https://cmsmagazine.ru/robots.txt", "status": 200, "elapsed_s": 1.402, "result": "ok", "bytes": 1996, "time_utc": "2026-11-17T14:32:15.719338+00:00"}
+{"url": "https://cmsmagazine.ru/agencies/", "status": 200, "elapsed_s": 0.808, "result": "ok", "bytes": 32238, "time_utc": "2026-11-17T14:32:18.089203+00:00"}
+{"url": "https://workspace.ru/robots.txt", "status": 200, "elapsed_s": 3.247, "result": "ok", "bytes": 2653, "time_utc": "2026-11-17T14:32:23.497522+00:00"}
+{"url": "https://workspace.ru/web-development/", "status": 200, "elapsed_s": 2.576, "result": "ok", "bytes": 216249, "time_utc": "2026-11-17T14:32:26.081271+00:00"}
+{"url": "https://workspace.ru/contractors/4px/", "status": 200, "elapsed_s": 0.906, "result": "ok", "bytes": 195355, "time_utc": "2026-11-17T14:32:27.447481+00:00"}
+{"url": "https://workspace.ru/contractors/only-com-ru/", "status": 200, "elapsed_s": 1.356, "result": "ok", "bytes": 225511, "time_utc": "2026-11-17T14:32:30.448460+00:00"}
+{"url": "https://4px.ru/robots.txt", "status": 200, "elapsed_s": 1.503, "result": "ok", "bytes": 1781, "time_utc": "2026-11-17T14:32:33.717657+00:00"}
+{"url": "https://4px.ru/", "status": 200, "elapsed_s": 0.441, "result": "ok", "bytes": 278138, "time_utc": "2026-11-17T14:32:35.195565+00:00"}
+{"url": "https://only.digital/robots.txt", "status": 200, "elapsed_s": 1.41, "result": "ok", "bytes": 509, "time_utc": "2026-11-17T14:32:38.679074+00:00"}
+{"url": "https://only.digital/", "status": 200, "elapsed_s": 0.618, "result": "ok", "bytes": 419714, "time_utc": "2026-11-17T14:32:41.551821+00:00"}
+{"url": "https://4px.ru/contacts/", "status": 200, "elapsed_s": 0.766, "result": "ok", "bytes": 144203, "time_utc": "2026-11-17T14:32:44.029387+00:00"}
+{"url": "https://4px.ru/about/", "status": 200, "elapsed_s": 0.599, "result": "ok", "bytes": 376387, "time_utc": "2026-11-17T14:32:46.701064+00:00"}
+{"url": "https://only.digital/contacts", "status": 200, "elapsed_s": 0.434, "result": "ok", "bytes": 157867, "time_utc": "2026-11-17T14:32:49.609022+00:00"}
+{"url": "https://only.digital/company", "status": 200, "elapsed_s": 0.427, "result": "ok", "bytes": 439552, "time_utc": "2026-11-17T14:32:52.421474+00:00"}
+{"url": "https://only.digital/company?award=%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B9%20%D0%A1%D0%B0%D0%B9%D1%82", "status": null, "result": "robots_disallowed", "time_utc": "2026-11-17T14:32:52.674543+00:00"}
+{"url": "https://cmsmagazine.ru/creators/", "status": 200, "elapsed_s": 1.638, "result": "ok", "bytes": 207194, "time_utc": "2026-11-17T14:32:56.702880+00:00"}
+{"url": "https://cmsmagazine.ru/agencies/artwell/", "status": 200, "elapsed_s": 1.387, "result": "ok", "bytes": 97261, "time_utc": "2026-11-17T14:32:58.654202+00:00"}
+{"url": "https://cmsmagazine.ru/agencies/augment-tech/", "status": 200, "elapsed_s": 2.596, "result": "ok", "bytes": 63926, "time_utc": "2026-11-17T14:33:02.505881+00:00"}
+{"url": "http://www.artwell.ru/robots.txt", "status": 307, "elapsed_s": 1.993, "result": "redirect", "time_utc": "2026-11-17T14:33:04.853526+00:00"}
+{"url": "https://www.artwell.ru/robots.txt", "status": 200, "elapsed_s": 4.403, "result": "ok", "bytes": 68, "time_utc": "2026-11-17T14:33:10.307887+00:00"}
+{"url": "http://www.artwell.ru/", "status": 307, "elapsed_s": 0.384, "result": "redirect", "time_utc": "2026-11-17T14:33:10.693214+00:00"}
+{"url": "https://www.artwell.ru/robots.txt", "status": 403, "elapsed_s": 4.377, "result": "stopped", "time_utc": "2026-11-17T14:33:17.776687+00:00"}
+{"url": "https://augment-tech.ru/robots.txt", "status": 200, "elapsed_s": 1.418, "result": "ok", "bytes": 2251, "time_utc": "2026-11-17T14:33:19.198966+00:00"}
+{"url": "https://augment-tech.ru/", "status": 200, "elapsed_s": 0.756, "result": "ok", "bytes": 316636, "time_utc": "2026-11-17T14:33:22.091739+00:00"}
+{"url": "https://augment-tech.ru/about/contacts/", "status": 200, "elapsed_s": 0.77, "result": "ok", "bytes": 168730, "time_utc": "2026-11-17T14:33:24.461900+00:00"}
+{"url": "https://augment-tech.ru/about/", "status": 200, "elapsed_s": 0.748, "result": "ok", "bytes": 926074, "time_utc": "2026-11-17T14:33:28.055791+00:00"}
+{"url": "https://augment-tech.ru/partners/", "status": 200, "elapsed_s": 0.763, "result": "ok", "bytes": 191184, "time_utc": "2026-11-17T14:33:30.976406+00:00"}

@@ -1,0 +1,12 @@
+{
+  "delay": 2.5,
+  "jitter": 1.0,
+  "timeout": 25,
+  "max_requests": 1000,
+  "max_agencies_per_source": 100,
+  "max_listing_pages": 30,
+  "max_site_pages": 8,
+  "max_site_depth": 2,
+  "proxy": null,
+  "require_proxy": false
+}

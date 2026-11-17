@@ -1,0 +1,351 @@
+{
+  "time_utc": "2026-11-17T14:45:25.291472+00:00",
+  "stop_reason": "export_only",
+  "requests_this_run": 0,
+  "unique_contacts": 2,
+  "contact_rows": 2,
+  "review_rows": 4,
+  "excluded_loaded": 0,
+  "rejected_occurrences": 11,
+  "limits": {
+    "delay": 2.5,
+    "jitter": 1.0,
+    "timeout": 25,
+    "max_requests": 150,
+    "max_agencies_per_source": 2,
+    "max_listing_pages": 3,
+    "max_site_pages": 4,
+    "max_site_depth": 2,
+    "require_proxy": false
+  },
+  "proxy_configured": false,
+  "sources": {
+    "workspace": {
+      "agencies": 2,
+      "successful_pages": 10,
+      "pending_pages": 0,
+      "tasks": [
+        {
+          "kind": "listing",
+          "url": "https://workspace.ru/contractors/",
+          "status": "done",
+          "error": "",
+          "final_url": "https://workspace.ru/contractors/"
+        },
+        {
+          "kind": "listing",
+          "url": "https://workspace.ru/web-development/",
+          "status": "done",
+          "error": "",
+          "final_url": "https://workspace.ru/web-development/"
+        },
+        {
+          "kind": "listing",
+          "url": "https://workspace.ru/website-support/",
+          "status": "skipped",
+          "error": "agency_limit_reached",
+          "final_url": ""
+        },
+        {
+          "kind": "card",
+          "url": "https://workspace.ru/contractors/4px/",
+          "status": "done",
+          "error": "",
+          "final_url": "https://workspace.ru/contractors/4px/"
+        },
+        {
+          "kind": "card",
+          "url": "https://workspace.ru/contractors/only-com-ru/",
+          "status": "done",
+          "error": "",
+          "final_url": "https://workspace.ru/contractors/only-com-ru/"
+        },
+        {
+          "kind": "site",
+          "url": "https://4px.ru/",
+          "status": "done",
+          "error": "",
+          "final_url": "https://4px.ru/"
+        },
+        {
+          "kind": "site",
+          "url": "https://only.digital/",
+          "status": "done",
+          "error": "",
+          "final_url": "https://only.digital/"
+        },
+        {
+          "kind": "site",
+          "url": "https://4px.ru/contacts/",
+          "status": "done",
+          "error": "",
+          "final_url": "https://4px.ru/contacts/"
+        },
+        {
+          "kind": "site",
+          "url": "https://4px.ru/about/",
+          "status": "done",
+          "error": "",
+          "final_url": "https://4px.ru/about/"
+        },
+        {
+          "kind": "site",
+          "url": "https://only.digital/contacts",
+          "status": "done",
+          "error": "",
+          "final_url": "https://only.digital/contacts"
+        },
+        {
+          "kind": "site",
+          "url": "https://only.digital/company",
+          "status": "done",
+          "error": "",
+          "final_url": "https://only.digital/company"
+        },
+        {
+          "kind": "site",
+          "url": "https://only.digital/company?award=%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B9%20%D0%A1%D0%B0%D0%B9%D1%82",
+          "status": "error",
+          "error": "robots_disallowed",
+          "final_url": ""
+        }
+      ],
+      "limits_reached": {
+        "agencies": true,
+        "listing_pages": true
+      }
+    },
+    "ruward": {
+      "agencies": 2,
+      "successful_pages": 9,
+      "pending_pages": 0,
+      "tasks": [
+        {
+          "kind": "listing",
+          "url": "https://ruward.ru/catalog/",
+          "status": "done",
+          "error": "",
+          "final_url": "https://ruward.ru/catalog/"
+        },
+        {
+          "kind": "card",
+          "url": "https://ruward.ru/catalog/ingate-ru/",
+          "status": "done",
+          "error": "",
+          "final_url": "https://ruward.ru/catalog/ingate-ru/"
+        },
+        {
+          "kind": "card",
+          "url": "https://ruward.ru/catalog/agima-ru/",
+          "status": "done",
+          "error": "",
+          "final_url": "https://ruward.ru/catalog/agima-ru/"
+        },
+        {
+          "kind": "site",
+          "url": "https://ingate.ru/",
+          "status": "done",
+          "error": "",
+          "final_url": "https://ingate.ru/"
+        },
+        {
+          "kind": "site",
+          "url": "http://promo.ingate.ru/",
+          "status": "error",
+          "error": "robots_unavailable: robots_challenge_or_html",
+          "final_url": ""
+        },
+        {
+          "kind": "site",
+          "url": "http://agima.ru/",
+          "status": "done",
+          "error": "",
+          "final_url": "https://www.agima.ru/"
+        },
+        {
+          "kind": "site",
+          "url": "https://ingate.ru/contacts/",
+          "status": "done",
+          "error": "",
+          "final_url": "https://ingate.ru/contacts/"
+        },
+        {
+          "kind": "site",
+          "url": "https://ingate.ru/company/",
+          "status": "done",
+          "error": "",
+          "final_url": "https://ingate.ru/company/"
+        },
+        {
+          "kind": "site",
+          "url": "https://siteos.agima.ru/contacts/",
+          "status": "error",
+          "error": "robots_unavailable: robots_cross_origin_redirect",
+          "final_url": ""
+        },
+        {
+          "kind": "site",
+          "url": "https://www.agima.ru/contacts/",
+          "status": "done",
+          "error": "",
+          "final_url": "https://www.agima.ru/contacts/"
+        },
+        {
+          "kind": "site",
+          "url": "https://www.agima.ru/about/",
+          "status": "done",
+          "error": "",
+          "final_url": "https://www.agima.ru/about/"
+        }
+      ],
+      "limits_reached": {
+        "agencies": true,
+        "listing_pages": false
+      }
+    },
+    "yandex": {
+      "agencies": 2,
+      "successful_pages": 5,
+      "pending_pages": 0,
+      "tasks": [
+        {
+          "kind": "listing",
+          "url": "https://b2b.yandex.ru/adv/contact/agencies",
+          "status": "done",
+          "error": "",
+          "final_url": "https://b2b.yandex.ru/adv/contact/agencies"
+        },
+        {
+          "kind": "card",
+          "url": "https://b2b.yandex.ru/adv/contact/agencies/registratura-ru",
+          "status": "done",
+          "error": "",
+          "final_url": "https://b2b.yandex.ru/adv/contact/agencies/registratura-ru"
+        },
+        {
+          "kind": "card",
+          "url": "https://b2b.yandex.ru/adv/contact/agencies/okkam",
+          "status": "done",
+          "error": "",
+          "final_url": "https://b2b.yandex.ru/adv/contact/agencies/okkam"
+        },
+        {
+          "kind": "site",
+          "url": "https://registratura.ru/",
+          "status": "error",
+          "error": "HTTP 504",
+          "final_url": ""
+        },
+        {
+          "kind": "site",
+          "url": "https://okkam.group/",
+          "status": "done",
+          "error": "",
+          "final_url": "https://okkam.group/"
+        },
+        {
+          "kind": "site",
+          "url": "https://okkam.group/contacts",
+          "status": "done",
+          "error": "",
+          "final_url": "https://okkam.group/contacts"
+        }
+      ],
+      "limits_reached": {
+        "agencies": true,
+        "listing_pages": false
+      }
+    },
+    "cmsmagazine": {
+      "agencies": 2,
+      "successful_pages": 8,
+      "pending_pages": 0,
+      "tasks": [
+        {
+          "kind": "listing",
+          "url": "https://cmsmagazine.ru/agencies/",
+          "status": "done",
+          "error": "",
+          "final_url": "https://cmsmagazine.ru/agencies/"
+        },
+        {
+          "kind": "listing",
+          "url": "https://cmsmagazine.ru/creators/",
+          "status": "done",
+          "error": "",
+          "final_url": "https://cmsmagazine.ru/creators/"
+        },
+        {
+          "kind": "listing",
+          "url": "https://cmsmagazine.ru/seo/",
+          "status": "skipped",
+          "error": "agency_limit_reached",
+          "final_url": ""
+        },
+        {
+          "kind": "card",
+          "url": "https://cmsmagazine.ru/agencies/artwell/",
+          "status": "done",
+          "error": "",
+          "final_url": "https://cmsmagazine.ru/agencies/artwell/"
+        },
+        {
+          "kind": "card",
+          "url": "https://cmsmagazine.ru/agencies/augment-tech/",
+          "status": "done",
+          "error": "",
+          "final_url": "https://cmsmagazine.ru/agencies/augment-tech/"
+        },
+        {
+          "kind": "site",
+          "url": "http://www.artwell.ru/",
+          "status": "error",
+          "error": "robots_unavailable: HTTP 403",
+          "final_url": ""
+        },
+        {
+          "kind": "site",
+          "url": "https://augment-tech.ru/",
+          "status": "done",
+          "error": "",
+          "final_url": "https://augment-tech.ru/"
+        },
+        {
+          "kind": "site",
+          "url": "https://augment-tech.ru/about/contacts/",
+          "status": "done",
+          "error": "",
+          "final_url": "https://augment-tech.ru/about/contacts/"
+        },
+        {
+          "kind": "site",
+          "url": "https://augment-tech.ru/about/",
+          "status": "done",
+          "error": "",
+          "final_url": "https://augment-tech.ru/about/"
+        },
+        {
+          "kind": "site",
+          "url": "https://augment-tech.ru/partners/",
+          "status": "done",
+          "error": "",
+          "final_url": "https://augment-tech.ru/partners/"
+        }
+      ],
+      "limits_reached": {
+        "agencies": true,
+        "listing_pages": true
+      }
+    }
+  },
+  "stopped_hosts": [
+    {
+      "host": "promo.ingate.ru",
+      "reason": "robots_challenge_or_html"
+    },
+    {
+      "host": "www.artwell.ru",
+      "reason": "HTTP 403"
+    }
+  ]
+}
